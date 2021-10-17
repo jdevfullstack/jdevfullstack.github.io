@@ -39,14 +39,13 @@ body {
 }
 
 h1 {
-  text-align: center;
-
-         font-family: "Century Gothic", arial, sans-serif;
-         font-size: 200%;
+    text-align: center;
+    font-family: "Century Gothic", arial, sans-serif;
+    font-size: 200%;
 }
 
-         p {
-         font-family: "Century Gothic", arial, sans-serif;
-         font-size: 125%;
-         margin: 0;
-         }
+p {
+    font-family: "Century Gothic", arial, sans-serif;
+    font-size: 125%;
+    margin: 0;         
+}
